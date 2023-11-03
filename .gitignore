@@ -5,3 +5,10 @@ instance/
 .venv/
 *.db
 *.sqlite
+__pycache__/
+*.py[cod]
+instance/
+.env
+.venv/
+*.db
+*.sqlite
